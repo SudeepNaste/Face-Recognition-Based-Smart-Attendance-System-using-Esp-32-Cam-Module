@@ -11,3 +11,5 @@ This project combines the versatility of the ESP32-CAM module and the processing
 * Promotes security and accountability by accurately identifying and recording attendance.
 * Customizable and adaptable to various settings, from classrooms to workplaces.
 * Supports the growth of a paperless and eco-friendly attendance management system.
+# Circuit Diagram
+![Circuit-diagram](https://github.com/user-attachments/assets/b87c2a76-60e2-4c3c-870b-80fa8e211d04)
