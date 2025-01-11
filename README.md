@@ -13,3 +13,5 @@ This project combines the versatility of the ESP32-CAM module and the processing
 * Supports the growth of a paperless and eco-friendly attendance management system.
 # Circuit Diagram
 ![Circuit-diagram](https://github.com/user-attachments/assets/b87c2a76-60e2-4c3c-870b-80fa8e211d04)
+# Home Page
+![Home_page](https://github.com/user-attachments/assets/e4f0cbb1-be20-4d69-a7df-09697d21220f)
